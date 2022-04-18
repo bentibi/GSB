@@ -1,2 +1,2 @@
 # GSB_Java
-Projet réalisé pour ma deuxième année d'étude
+Application pour la gestion des visiteurs d'un laboratoire pharmaceutique ( projet académique ).
